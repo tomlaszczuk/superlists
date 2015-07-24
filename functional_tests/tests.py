@@ -84,4 +84,3 @@ class NewVisitorTest(LiveServerTestCase):
         # She visits that URL - her to-do list is still there.
 
         # Satisfied, she goes back to sleep
-        self.fail('Finish tests')
